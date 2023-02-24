@@ -1,5 +1,3 @@
-<h1 align="center">Hi 👋, I'm Romani Todua</h1>
-<h3 align="center">A passionate Software developer from Georgia</h3>
 
 <p align="left"> <a href="https://twitter.com/romachkuna" target="blank"><img src="https://img.shields.io/twitter/follow/romachkuna?logo=twitter&style=for-the-badge" alt="romachkuna" /></a> </p>
 
